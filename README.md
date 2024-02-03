@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sobia karim
-- 👀 I’m interested in coding, programming and web development.
-- 🌱 I’m currently learning OOP and web development.
+- 👀 I’m interested in coding, programming and flutter development.
+- 🌱 I’m currently learning android development.
 - 📫 How to reach me sobiakarim2004@gmail.com
 
 <!---
